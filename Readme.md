@@ -1,6 +1,6 @@
 # dxAutocomplete - How to assign attributes via JavaScript
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4794)**
+**[[Run Online]](https://codecentral.devexpress.com/e4794/)**
 <!-- run online end -->
 
 
